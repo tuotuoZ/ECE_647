@@ -17,7 +17,7 @@ Remember: With enough resources, every device can be broken.
 Limit the damage when a device is broken and therefore make the lab attack uneconomical.
 
 Security System is a framework that contains: assets, threats, vulnerabilities and defenses.
-[!](/images/sys_framework.png)
+[!](images/sys_framework.png)
 ### Readings Notes
 
 "The result is whatBruce Schneier calls 'security theatre' – measures designed to produce a feelingof security rather than the reality."
