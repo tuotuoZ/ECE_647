@@ -37,3 +37,24 @@ It shows the importance of Security Engineering in practice.
 
 3. Low-probability-of-intercept(LPI) radio links and Bluetooth?
 
+# Week 1 lesson 2
+
+### Readings
+
+### Lecture notes
+Highlighted definition from the textbook:
+1.![policy, incentives, assurance, mechanism](images/analysis_framework.png)
+
+2. System
+
+3. Identity
+
+4. Trust and Trustworthy
+
+5. Secrecy, Confidentiality, and Privacy
+
+6. Authenticity and Integrity
+
+7. Vulnerability
+
+8. Safety vs Security; Security is a overloaded word
