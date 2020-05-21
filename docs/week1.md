@@ -17,7 +17,7 @@ Remember: With enough resources, every device can be broken.
 Limit the damage when a device is broken and therefore make the lab attack uneconomical.
 
 Security System is a framework that contains: assets, threats, vulnerabilities and defenses.
-[!](/images/sys_framework.png)
+[!](images/sys_framework.png)
 
 We should not only protect data, but also metadata. For example, message is the data, who spoke to whom is metadata.
 
