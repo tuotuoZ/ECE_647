@@ -18,10 +18,14 @@ Limit the damage when a device is broken and therefore make the lab attack uneco
 
 Security System is a framework that contains: assets, threats, vulnerabilities and defenses.
 <<<<<<< HEAD
+<<<<<<< HEAD
 [!](/images/sys_framework.png)
 
 We should not only protect data, but also metadata. For example, message is the data, who spoke to whom is metadata.
 
+=======
+![framework](images/sys_framework.png)
+>>>>>>> fcec1de45996e52fc58b457f7c722d375c722f84
 =======
 ![framework](images/sys_framework.png)
 >>>>>>> fcec1de45996e52fc58b457f7c722d375c722f84
