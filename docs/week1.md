@@ -83,13 +83,21 @@ Check the reference section to look at how you cite other people's works.
 ### Readings
 1. Crypto background. [Textbook Chap 5.1-5.6](Readings/week1_3.pdf)
 
+2. [Entropy Shannon 1948](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 
 ### Lecture notes
 1. Pseudo-random function: Changing a single bit of an input should on average change half of all output bits.
 
-2. 
+2. XOR is widely used in encrption for the previous reason. You change one input, the result change.
+
+
 ### Questions:
 	1. Fixed input-length random function. Why is this many possibilities?
 
-	2.
+	2. What does a ECB image encryption look like?
+	https://medium.com/asecuritysite-when-bob-met-alice/electronic-code-book-ecb-and-cipher-block-chaining-cbc-e3309d704917
+	https://asecuritysite.com/encryption/crackaes2?word=falkirk&password=foxtrot
+	http://www.crypto-it.net/eng/theory/modes-of-block-ciphers.html
+	
+	3. Need to deduct the birthday paradox.
 
