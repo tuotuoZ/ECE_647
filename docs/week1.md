@@ -78,6 +78,8 @@ Check the reference section to look at how you cite other people's works.
 ### Questions
 1. Proprietary algorithm? Just for encrypting or in general?
 
+2. SSD paper, a many-to-many relation exists between passwords and locking ranges. Is it good but hard to implement? Or it is just bad because it's a complex design?
+
 # Week 1 Lesson 3
 
 ### Readings
