@@ -101,3 +101,20 @@ Check the reference section to look at how you cite other people's works.
 	
 	3. Need to deduct the birthday paradox.
 
+# Week 1 lesson 4
+
+### Lecture notes
+1. Reading techniques:
+	Survey, Question, Read, Recite, Review
+
+2. Often times, the professor's name is at the end of the authors' list, before the institution.
+
+3. Editors for the paper may ask the related works' people if you represent their work properly.
+
+4. Better to have captions for tables or figures.
+
+5. Results of attack:
+	Theft
+	Sabotage
+	Tracking
+	On-line market of vulnerability information
