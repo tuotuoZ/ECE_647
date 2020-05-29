@@ -120,3 +120,7 @@ Check the reference section to look at how you cite other people's works.
 	Sabotage
 	Tracking
 	On-line market of vulnerability information
+	
+### Reading notes
+Bluetooth can be request without users' notices.
+
