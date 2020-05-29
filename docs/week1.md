@@ -126,3 +126,6 @@ Bluetooth can be request without users' notices.
 
 Thefts can now pre-hack massive cars, let them upload their VIN to get the model, make, year. Then filter these cars to select the one they want to steal. They might just sell just cars. 
 The whole model of the market will be changed.
+
+### Question
+Do suppliers really do a good job on testing?
