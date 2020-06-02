@@ -1,4 +1,4 @@
-### Week 2 Lesson 6
+### Week 2 Lesson 2
 
 #### Lecture notes
 1. TCB is Trusted computing base. The smaller its surface is, the less attack can penertrate it.
