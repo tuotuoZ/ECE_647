@@ -16,6 +16,9 @@
 4. Better explain what's the detail for 1000 query budget?
 
 5. It's funny to see that the researchs found their credentials in the leak.
+
+6. Good way to improve wiriting?
+
 ### Week 2 Lesson 2
 
 #### Reading
