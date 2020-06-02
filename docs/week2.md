@@ -1,6 +1,38 @@
+### Week 2 Lesson 1
+
+#### Readings
+[Password Similarity Models using Neural NetworksFile](Readings/week2_1_cropped.md)
+	
+[True2F - Backdoor-resistant authentication tokensFile](Readings/week2_2_cropped.md)
+
+
+#### Lecture notes
+1. Pseudonymity? Freely to talk to someone who is anonymous?
+
+2. Non-repudiation?
+
+3. Why was the username-based merging technique not accurate?
+
+4. Better explain what's the detail for 1000 query budget?
+
+5. It's funny to see that the researchs found their credentials in the leak.
+
 ### Week 2 Lesson 2
+
+#### Reading
+[3 Designing for Audit A Voting Machine with a Tiny TCBFile](Readings/week2_3_cropped.md)
 
 #### Lecture notes
 1. TCB is Trusted computing base. The smaller its surface is, the less attack can penertrate it.
 
 2. Viruses exist in env where programs have access to modify other programs' code.(e.g. MS-DOS, Windows, that's why unix systems has less viruses than dos systems.) 
+
+### Week 2 Lesson 3
+
+#### Readings
+[smart grid security](Readings/week2_4_cropped.md)
+
+[5 Who controls the off switchFile](Readings/week2_5_cropped.md)
+
+#### Lecture notes
+

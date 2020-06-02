@@ -19,7 +19,7 @@ Limit the damage when a device is broken and therefore make the lab attack uneco
 Security System is a framework that contains: assets, threats, vulnerabilities and defenses.
 ![framework](images/sys_framework.png)
 
-We should not only protect data, but also metadata. For example, message is the data, who spoke to whom is metadata.
+We should protect not only data, but also metadata. For example, message is the data, who spoke to whom is metadata.
 
 ### Readings Notes
 
@@ -78,6 +78,8 @@ Check the reference section to look at how you cite other people's works.
 ### Questions
 1. Proprietary algorithm? Just for encrypting or in general?
 
+2. SSD paper, a many-to-many relation exists between passwords and locking ranges. Is it good but hard to implement? Or it is just bad because it's a complex design?
+
 # Week 1 Lesson 3
 
 ### Readings
@@ -101,3 +103,29 @@ Check the reference section to look at how you cite other people's works.
 	
 	3. Need to deduct the birthday paradox.
 
+# Week 1 lesson 4
+
+### Lecture notes
+1. Reading techniques:
+	Survey, Question, Read, Recite, Review
+
+2. Often times, the professor's name is at the end of the authors' list, before the institution.
+
+3. Editors for the paper may ask the related works' people if you represent their work properly.
+
+4. Better to have captions for tables or figures.
+
+5. Results of attack:
+	Theft
+	Sabotage
+	Tracking
+	On-line market of vulnerability information
+	
+### Reading notes
+Bluetooth can be request without users' notices.
+
+Thefts can now pre-hack massive cars, let them upload their VIN to get the model, make, year. Then filter these cars to select the one they want to steal. They might just sell just cars. 
+The whole model of the market will be changed.
+
+### Question
+Do suppliers really do a good job on testing?
