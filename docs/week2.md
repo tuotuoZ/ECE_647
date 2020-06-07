@@ -29,6 +29,15 @@
 
 2. Viruses exist in env where programs have access to modify other programs' code.(e.g. MS-DOS, Windows, that's why unix systems has less viruses than dos systems.) 
 
+5. Poor ballot design, the first option will easily gets selected.  
+
+6. Brifely explain the binary code is more vulnerable? Source code is more solid? Due to the hash check?
+
+7. Surprise recounts equals random recounts? Recount?
+
+8. Skill level needed to hide malicious code is much lower than needed to find it.
+
+9. 56-bit DES + 8 bit
 ### Week 2 Lesson 3
 
 #### Readings
