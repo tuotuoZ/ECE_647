@@ -19,6 +19,7 @@
 
 6. Good way to improve wiriting?
 
+7. How is calculating the DNN computationally hard?
 ### Week 2 Lesson 2
 
 #### Reading
@@ -28,6 +29,17 @@
 1. TCB is Trusted computing base. The smaller its surface is, the less attack can penertrate it.
 
 2. Viruses exist in env where programs have access to modify other programs' code.(e.g. MS-DOS, Windows, that's why unix systems has less viruses than dos systems.) 
+
+3. Definitions behind common terms for malicious software:(meeting-6,P15)
+	Trojan Horse
+	Backdoor
+	Logic Bomb
+	Virus
+	Worm
+	Root Kit
+
+4. Binary code is more vulnerable because it's without code?
+
 
 ### Week 2 Lesson 3
 
