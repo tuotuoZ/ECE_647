@@ -59,3 +59,33 @@
 
 #### Lecture notes
 
+1. Symmetric codes: use the same key for encryption and decryption.
+	Disadvantages:
+		a. Distributing hard
+		b. Key update hard
+		c. Key exposed, the algorithm fails
+
+2. Asymmetric codes: use different keys for encryption and decryption. 
+	Disadvantage:
+	a. More complex,
+	b. Slower to implement
+	c. Fewer options
+
+3. Key Exchange:
+	1. Diffie-Hellman Key Exchange, 1976
+		1. Prime number
+		2. Discrete log problem
+		3. ![](images/DH.png)
+4. 2 problems and 2 challenges
+
+5. Why hash? 49:20 lecture 7.
+	1. I should populate the list of all the questions that the slides ask.
+
+6. Slide 29 has a typo. Bob should use the public key instead of private key.
+
+7. When downloading a file, there is usually a SHA-256 to check the file integrity.
+
+### Week 2 Lesson 4
+
+#### Readings
+1. [RFID Security and Privacy: A Research Survey](Readings/week2_8.pdf)
