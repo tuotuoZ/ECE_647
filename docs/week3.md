@@ -27,3 +27,6 @@
 5. DPA to reduce the possiblity of the key. Originally, it's 2^8. After a few analysis, it can go to 2^5. Then we can brute force search.
 
 6. dpacontest.org
+
+#### Power analysis assignment
+[exploring side-channel attack](../Code/PowerAnalysis/DPA assignment.pdf)
