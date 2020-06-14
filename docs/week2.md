@@ -89,3 +89,26 @@
 
 #### Readings
 1. [RFID Security and Privacy: A Research Survey](Readings/week2_8.pdf)
+
+#### Lecture notes
+1. Theat Models:
+	Thermal Virus: making target devices hotter to potentially shut down devices
+
+2. RFID advantages: No battery, Cheap, and Abundant
+
+3. Contactless pay RFID? Yes!
+
+4. RFID Privacy: bad readers, good tags
+	RFID Counterfeiting: good readers, bad tags
+
+5. Certain type of regulations don't restrict attackers. e.g. FCC
+
+6. NFC vs RFID?
+
+7. RFID threat models on reading ranges: it varies from 10cm to few kilometers depending on if you are first reader or second reader. 
+
+8. Psuedonyms rotation: use different id at differet times. It gets more effective if it has large number of pseudonyms.
+
+9. Blocker tags response to any query in order to protect other tags.
+
+10. You can kill a RFID tag by sending a kill command with a PIN.
