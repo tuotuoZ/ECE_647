@@ -29,4 +29,4 @@
 6. dpacontest.org
 
 #### Power analysis assignment
-[exploring side-channel attack](../Code/PowerAnalysis/DPA assignment.pdf)
+[exploring side-channel attack](../Code/PowerAnalysis/DPA-assignment.pdf)
