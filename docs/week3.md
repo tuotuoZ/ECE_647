@@ -30,3 +30,30 @@
 
 #### Power analysis assignment
 [exploring side-channel attack](../Code/PowerAnalysis/DPA-assignment.pdf)
+
+	USE A WINDOWS MACHINE!
+### Week 3 Meeting 11
+
+#### Readings
+	1. [On the Power of Power Analysis in the Real World: A Complete Break of the KeeLoq Code Hopping Scheme](Readings/meeting11_1.pdf)
+
+	2. [ES-Based Security Coprocessor IC in 0.18-􏰇m
+CMOS With Resistance to Differential Power
+Analysis Side-Channel Attacks](Readings/meeting11_2.pdf)
+	
+#### Lecture notes
+1. Keeloq widely used for garage doors and cars. (e.g. Fiat, GM, Honda, Toyota, and so on)
+
+2. Manufactuer key break leads to creating master key in order to open every car they make.
+	
+3. Fixed password at the beginning. One way.
+	Then rolling code came out.(incremental code)
+	Alternation: Challenge Response mode
+		The car sends a challenge, the key recieves the challenge with the encrpytion password.
+		Drawback: the key now has to constantly listen. Power drain4. Valide Counter to prevent key out sync with the car.![counter process](images/meeting11_1.png)
+
+5. Cat came again in today's class!
+
+6. Higher voltage usually means it's writing on non-violate memory.
+
+7. ![those company hate us!](images/meeting11_2.png)

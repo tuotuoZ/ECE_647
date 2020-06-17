@@ -1,4 +1,0 @@
-configobj
-pyserial
-docutils
-pyusb
