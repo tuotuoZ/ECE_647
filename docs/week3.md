@@ -56,4 +56,4 @@ Analysis Side-Channel Attacks](Readings/meeting11_2.pdf)
 
 6. Higher voltage usually means it's writing on non-violate memory.
 
-7. ![those company hate us!](images/meeting11_2.png)
+7. They absolutely hate us!![those company hate us!](images/meeting11_2.png)
